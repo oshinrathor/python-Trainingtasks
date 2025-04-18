@@ -1,0 +1,5 @@
+INFO: Server started successfully.
+ERROR: Failed to connect to the database.
+INFO: Server shutdown initiated.
+ERROR: Timeout occurred during connection.
+ERROR: Failed to write to the log file.

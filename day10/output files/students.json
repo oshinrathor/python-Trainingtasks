@@ -1,0 +1,42 @@
+[
+    {
+        "student name": "DAVID",
+        "marks": "48",
+        "result": "FAIL"
+    },
+    {
+        "student name": "CHARLIE",
+        "marks": "60",
+        "result": "PASS"
+    },
+    {
+        "student name": "BOB",
+        "marks": "42",
+        "result": "FAIL"
+    },
+    {
+        "student name": "ALICE",
+        "marks": "85",
+        "result": "PASS"
+    },
+    {
+        "student name": "DAISY",
+        "marks": "89",
+        "result": "PASS"
+    },
+    {
+        "student name": "CHANDAN",
+        "marks": "97",
+        "result": "PASS"
+    },
+    {
+        "student name": "BRYAN",
+        "marks": "79",
+        "result": "PASS"
+    },
+    {
+        "student name": "AMELIYA",
+        "marks": "90",
+        "result": "PASS"
+    }
+]
